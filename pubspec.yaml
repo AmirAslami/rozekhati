@@ -4,8 +4,8 @@ version: 1.4.1
 homepage: https://github.com/AmirAslami/rozekhati.git
 
 environment:
-  sdk: ">=3.2.0 <4.0.0"
-  flutter: ">=3.16.0"
+  sdk: '>=2.18.0 <4.0.0'
+  flutter: ">=3.3.0"
 
 dependencies:
   cached_video_player: ^2.0.4
